@@ -1,15 +1,9 @@
-### Hi I'm SAOUABE Abdelkrim 👋
+#### Hi I'm SAOUABE Abdelkrim 👋
 
-
-Here are some ideas to get you started:
+Innovation Project Leader
 
 - 🔭 I’m currently working on AI
 - 🌱 I’m currently learning Cloud Computing
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: saouabe@yahoo.fr
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 ### Connecte with me :
 https://www.linkedin.com/in/abdelkrim-saouabe-939926120/
